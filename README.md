@@ -21,7 +21,7 @@ The source of the SFDX Plugin Generator can be found here: <https://github.com/f
 
 These plugins were created using the SFDX Plugin Generator:
 
-- <https://github.com/afawcett/force-di>
+- <https://github.com/afawcett/dependencies-cli>
 - <https://github.com/amtrack/sfdx-browserforce-plugin>
 - <https://github.com/billryoung/sfdx-wry-plugin>
 - <https://github.com/CodeScience/codescience-dx-plugin>

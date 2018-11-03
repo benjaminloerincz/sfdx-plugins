@@ -4,12 +4,12 @@ This is a simple list of sfdx plugins.
 
 ## Table of Content <!-- omit in toc -->
 
-- [Create your own Salesforce CLI](#create-your-own-salesforce-cli)
+- [Create your own Salesforce CLI Plugin](#create-your-own-salesforce-cli-plugin)
 - [SFDX Plugin Generator](#sfdx-plugin-generator)
 - [SFDX Plugin List](#sfdx-plugin-list)
 - [Contribute](#contribute)
 
-### Create your own Salesforce CLI
+### Create your own Salesforce CLI Plugin
 
 If you want to create your own Salesforce CLI plugin, please check out this awesome blog post by René Winkelmeyer: <https://developer.salesforce.com/blogs/2018/05/create-your-first-salesforce-cli-plugin.html>
 
@@ -21,6 +21,7 @@ The source of the SFDX Plugin Generator can be found here: <https://github.com/f
 
 These plugins were created using the SFDX Plugin Generator:
 
+- <https://github.com/afawcett/force-di>
 - <https://github.com/amtrack/sfdx-browserforce-plugin>
 - <https://github.com/billryoung/sfdx-wry-plugin>
 - <https://github.com/CodeScience/codescience-dx-plugin>
@@ -54,6 +55,7 @@ These plugins were created using the SFDX Plugin Generator:
 - <https://github.com/shunkosa/sfdx-cmdt-plugin>
 - <https://github.com/texei/texei-sfdx-plugin>
 - <https://github.com/venkatpolisetti/crm-sfdx-plugin>
+- <https://github.com/wadewegner/sfdx-code-gen>
 - <https://github.com/wadewegner/sfdx-core-test-plugin>
 - <https://github.com/wadewegner/sfdx-waw-plugin>
 - <https://github.com/wadewegner/sfdx-wsdl2apex-plugin>
@@ -61,4 +63,4 @@ These plugins were created using the SFDX Plugin Generator:
 
 ### Contribute
 
-Contributions are always welcome
+Contributions are always welcome!

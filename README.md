@@ -30,7 +30,6 @@ These plugins were created using the SFDX Plugin Generator:
 - <https://github.com/denford/denford-sfdx-plugins>
 - <https://github.com/Desynit/SFDX-Plugin-Suite>
 - <https://github.com/dieffrei/rest-explorer-sfdx-plugin>
-- <https://github.com/dimasoftua/sfdx-node>
 - <https://github.com/dmitry-prohorov/sfdx-dpro-plugin>
 - <https://github.com/Gurenax/sfdx-react-plugin>
 - <https://github.com/HenrySaller/sfdx-watch>
